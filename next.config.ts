@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   output: "export",
-  basePath: "/standart-stomatologiya",
+  basePath: "/atlantiya-stomatologiya",
   images: { unoptimized: true },
   trailingSlash: true,
   typescript: { ignoreBuildErrors: true },
